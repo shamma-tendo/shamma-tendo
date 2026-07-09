@@ -6,8 +6,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=i%20do%20open%20source%20and%20always%20excited%20to%20fork%20an%20issue%20and%20close%20it" alt="Typing headlines" />
 </p>
-🚀 About Me
-software engineer who loves APIs, enjoys networking, and ready to fork any issue that needs my attention
+🚀 
+I'm a software engineer who loves APIs, enjoys networking, and ready to fork any issue that needs my attention
 🔭  I'm currently working on hacking my neighbors wifi  
 🌱  I'm currently learning python & cyber security  
 👯  I'm looking to collaborate on open source developer tools  
