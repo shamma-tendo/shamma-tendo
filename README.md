@@ -61,4 +61,4 @@ I'm a software engineer who loves APIs, enjoys networking, and ready to fork any
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/shamma-tendo">shamma-tendo</a></i></p>
+<p align="center"><i>⭐️ <a href="https://github.com/shamma-tendo">shamma-tendo</a></i></p>
