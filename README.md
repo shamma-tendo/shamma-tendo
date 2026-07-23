@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shamma-tendo">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=474&text=Bug%20Squasher" alt="Bug Squasher" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=474&text=Techie%20Techie" alt="Techie" />
   </a>
 </p>
 <p align="center">
