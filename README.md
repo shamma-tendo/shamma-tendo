@@ -13,8 +13,8 @@ I'm a software engineer who loves APIs, enjoys networking, and ready to fork any
 👯  I'm looking to collaborate on open source developer tools.  
 🤔  I'm looking for help with network systems.
 😄  Pronouns: she/her.  
-⚡  Fun fact: i watch code reels for entertainment.
-🛠️ Tech Stack.
+⚡  Fun fact: I watch code reels for entertainment.
+🛠️ Tech Stack!
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -47,13 +47,13 @@ I'm a software engineer who loves APIs, enjoys networking, and ready to fork any
   <a href="https://shammaz-portfolio-website.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:shammatendo1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-📊 GitHub Stats.
+📊 GitHub Stats!.
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=shamma-tendo&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=shamma-tendo&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 <!--
-📈 Contribution Graph.
+📈 Contribution Graph!.
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamma-tendo&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p> -->
