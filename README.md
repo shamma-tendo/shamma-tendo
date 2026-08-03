@@ -12,7 +12,7 @@ I'm a software engineer who loves APIs, enjoys networking, and ready to fork any
 🌱  I'm currently learning python & cyber security.
 👯  I'm looking to collaborate on open source developer tools.  
 🤔  I'm looking for help with network systems.
-😄  Pronouns: she/her.  
+😄  Pronouns: she/her....  
 ⚡  Fun fact: I watch code reels for entertainment.
 🛠️ Tech Stack!
 <p align="left">
